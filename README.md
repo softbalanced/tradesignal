@@ -7,10 +7,10 @@ Trading the stock market can be tricky – especially if you are a beginner. How
 ## Screenshots
 
 <p align="middle">
-  <img width="200" src="https://github.com/softbalanced/buysignal/blob/main/screenshot/sc3.jpg">
-  <img width="200" src="https://github.com/softbalanced/buysignal/blob/main/screenshot/sc2.jpg">
-  <img width="200" src="https://github.com/softbalanced/buysignal/blob/main/screenshot/sc1.jpg">
-  <img width="200" src="https://github.com/softbalanced/buysignal/blob/main/screenshot/sc4.jpg">
+  <img width="200" src="https://github.com/softbalanced/tradesignal/blob/main/221058_TradeSignal.jpg">
+  <img width="200" src="https://github.com/softbalanced/tradesignal/blob/main/221106_TradeSignal.jpg">
+  <img width="200" src="https://github.com/softbalanced/tradesignal/blob/main/221116_TradeSignal.jpg">
+  <img width="200" src="https://github.com/softbalanced/tradesignal/blob/main/221156_TradeSignal.jpg">
 </p>
 
 ## Architecture
