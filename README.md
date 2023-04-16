@@ -1,6 +1,6 @@
 # TradeSignal
 
-Best Stock Signal Application – Get Free Signals Today
+Stock Signal Application – Get Free Signals Today
 
 Trading the stock market can be tricky – especially if you are a beginner. However, by using stock signal application, no need for extensive research and analysis, allowing to streamline trading through daily and weekly trade period.
 
